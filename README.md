@@ -1,4 +1,7 @@
-# churchle
-two-team 'wordle' clone with church-related words - ideal for group game activities
+# worduel
+
+local, turn-based, 5-to-6-letter, 1v1-style 'wordle' clone
+
 # webpage
-https://dumpling-drinker.github.io/churchle/
+
+https://dumpling-drinker.github.io/worduel/

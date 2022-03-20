@@ -91,7 +91,7 @@ const App = () => {
 		<div className="root">
 			<header>
 				<div />
-				<p className="title">TNG Churchle</p>
+				<p className="title">WORDUEL</p>
 				<div className="reload-container">
 					<div className="reload" onClick={() => window.location.reload()}>
 						<p className="label">Restart</p>
