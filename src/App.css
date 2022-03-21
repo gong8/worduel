@@ -15,6 +15,7 @@ header {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   border-bottom: 1px solid white;
+  margin: 0;
 }
 
 .title {
@@ -52,4 +53,10 @@ header {
 .label {
   margin: 0;
   color: rgb(32, 32, 32);
+}
+
+.image {
+  height: 3em;
+  margin-left: 12px;
+  border-radius: 50%;
 }
