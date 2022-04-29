@@ -86,7 +86,6 @@ export const Game: FC<GameProps> = ({ cols, active, onEnter, onComplete }) => {
                                     const indices = correct.get(word[i])!;
                                     let index = indices.indexOf(i);
                                     if (index !== -1) {
-                                        console.log('chonk');
                                         indices.splice(index, 1);
                                         copy[currRow][i] = 2;
                                         keys[word[i]] = 2;
